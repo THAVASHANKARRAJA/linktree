@@ -28,6 +28,7 @@ function App(){
     <a href="https://github.com/THAVASHANKARRAJA">GITHUB</a>
     <a href="https://thavashankarraja-portfolio.netlify.app/">PORTFOLIO</a>
   <a href="https://www.linkedin.com/in/thavashankarraja-k-c-311581208/">LINKEDIN</a>
+  <a href="https://drive.google.com/file/d/1gXoRgGzQ7W7kaon4JGcjSur-7TGamK_V/view?usp=drive_link">RESUME</a>
     </div>
       </div>
     
